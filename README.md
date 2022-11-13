@@ -36,7 +36,7 @@ Technical Architecture:
 *  [Project Design And Planning](https://github.com/IBM-EPBL/IBM-Project-31551-1660202440/tree/main/project%20design%20and%20planning)
 *  [Ideation Phase](https://github.com/IBM-EPBL/IBM-Project-31551-1660202440/tree/main/project%20design%20and%20planning/ideation%20phase)
 *  [Project Design Phase I](https://github.com/IBM-EPBL/IBM-Project-31551-1660202440/tree/main/project%20design%20and%20planning/Project%20Design%20Phase%201)
-*  [Project Design Phase II](https://github.com/IBM-EPBL/IBM-Project-54203-1661777480/tree/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase%20II)
+*  [Project Design Phase II](https://github.com/IBM-EPBL/IBM-Project-31551-1660202440/tree/main/project%20design%20and%20planning/Project%20Design%20Phase%20II)
 *  [Project Development Phase](https://github.com/IBM-EPBL/IBM-Project-54203-1661777480/tree/main/Project%20Development%20Phase)
 *  [Sprint 1](https://github.com/IBM-EPBL/IBM-Project-54203-1661777480/tree/main/Project%20Development%20Phase/sprint%201)
 *  [Sprint 2]( https://github.com/IBM-EPBL/IBM-Project-54203-1661777480/tree/main/Project%20Development%20Phase/sprint%202)
