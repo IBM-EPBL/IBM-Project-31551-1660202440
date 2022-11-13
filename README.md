@@ -23,7 +23,7 @@ Technical Architecture:
 
 *  [Assignments 1](https://github.com/IBM-EPBL/IBM-Project-31551-1660202440/blob/main/ibm%20assignment1.ipynb)
 *  [Assignment 2](https://github.com/IBM-EPBL/IBM-Project-31551-1660202440/blob/main/ibm_assignment_2.ipynb)
-*  [Assignment 3](https://github.com/IBM-EPBL/IBM-Project-54203-1661777480/tree/main/ASSIGNMENT%203)
+*  [Assignment 3](https://github.com/IBM-EPBL/IBM-Project-31551-1660202440/blob/main/ibm%20assignment%203.ipynb)
 *  [Assignment 4](https://github.com/IBM-EPBL/IBM-Project-54203-1661777480/tree/main/Assignment%204)
 *  [Prerequisites](https://github.com/IBM-EPBL/IBM-Project-54203-1661777480/tree/main/Prerequisites)
 *  [Project structure](https://github.com/IBM-EPBL/IBM-Project-54203-1661777480/tree/main/Project%20Structure)
