@@ -28,7 +28,7 @@ Technical Architecture:
 *  [Prerequisites](https://github.com/IBM-EPBL/IBM-Project-31551-1660202440/blob/main/Prerequisites/Prerequisites.pdf)
 *  [Project structure](https://github.com/IBM-EPBL/IBM-Project-31551-1660202440/blob/main/Project%20structure/Project%20%20Structure.pdf)
 *  [Project flow](https://github.com/IBM-EPBL/IBM-Project-31551-1660202440/blob/main/Project%20flow/Project%20Flow.pdf)
-*  [Project objective](https://github.com/IBM-EPBL/IBM-Project-54203-1661777480/tree/main/Project%20objectives)
+*  [Project objective](https://github.com/IBM-EPBL/IBM-Project-31551-1660202440/blob/main/Project%20objectives/Project%20objectives%20IBM.pdf)
 *  [Prior knowledge](https://github.com/IBM-EPBL/IBM-Project-54203-1661777480/tree/main/Prior%20Knowledge)
 *  [Model building](https://github.com/IBM-EPBL/IBM-Project-54203-1661777480/tree/main/Model%20Building)
 *  [Application buliding](https://github.com/IBM-EPBL/IBM-Project-54203-1661777480/tree/main/Application%20Building)
