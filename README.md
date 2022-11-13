@@ -26,7 +26,7 @@ Technical Architecture:
 *  [Assignment 3](https://github.com/IBM-EPBL/IBM-Project-31551-1660202440/blob/main/ibm%20assignment%203.ipynb)
 *  [Assignment 4](https://github.com/IBM-EPBL/IBM-Project-31551-1660202440/tree/main/parkavi%20assignment%204)
 *  [Prerequisites](https://github.com/IBM-EPBL/IBM-Project-31551-1660202440/blob/main/Prerequisites/Prerequisites.pdf)
-*  [Project structure](https://github.com/IBM-EPBL/IBM-Project-54203-1661777480/tree/main/Project%20Structure)
+*  [Project structure](https://github.com/IBM-EPBL/IBM-Project-31551-1660202440/blob/main/Project%20structure/Project%20%20Structure.pdf)
 *  [Project flow](https://github.com/IBM-EPBL/IBM-Project-54203-1661777480/tree/main/Project%20flow)
 *  [Project objective](https://github.com/IBM-EPBL/IBM-Project-54203-1661777480/tree/main/Project%20objectives)
 *  [Prior knowledge](https://github.com/IBM-EPBL/IBM-Project-54203-1661777480/tree/main/Prior%20Knowledge)
